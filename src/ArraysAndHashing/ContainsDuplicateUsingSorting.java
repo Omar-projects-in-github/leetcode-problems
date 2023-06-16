@@ -4,9 +4,7 @@ import java.util.Arrays;
 
 /*
 Leetcode exercise 217. Contains Duplicate
-link to the problem: https://leetcode.com/problems/contains-duplicate/description/
-
-I have solved it using array sorting
+link to the problem: https://leetcode.com/problems/contains-duplicate/
  */
 
 public class ContainsDuplicateUsingSorting {

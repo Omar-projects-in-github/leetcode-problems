@@ -3,6 +3,11 @@ package ArraysAndHashing;
 import java.util.HashMap;
 import java.util.Map;
 
+/*
+Leetcode exercise 242. Contains Duplicate
+link to the problem: https://leetcode.com/problems/valid-anagram/
+*/
+
 public class ValidAnagramUsingHashMap {
     public boolean isAnagram(String s, String t) {
         int sLength = s.length();

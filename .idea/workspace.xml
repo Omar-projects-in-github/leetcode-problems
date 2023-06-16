@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e82100c9-42d1-42cc-b628-86eeb82363ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysAndHashing/ContainsDuplicateUsingHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysAndHashing/ContainsDuplicateUsingSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysAndHashing/ValidAnagramUsingAlphabetFrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysAndHashing/ValidAnagramUsingHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysAndHashing/ValidAnagramUsingSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/summer_2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysAndHashing/TwoSumUsingAdditionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysAndHashing/TwoSumUsingHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraysAndHashing/ContainsDuplicateUsingHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysAndHashing/ContainsDuplicateUsingHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraysAndHashing/ContainsDuplicateUsingSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysAndHashing/ContainsDuplicateUsingSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraysAndHashing/ValidAnagramUsingAlphabetFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysAndHashing/ValidAnagramUsingAlphabetFrequency.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

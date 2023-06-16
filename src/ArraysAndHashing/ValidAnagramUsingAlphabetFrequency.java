@@ -1,5 +1,10 @@
 package ArraysAndHashing;
 
+/*
+Leetcode exercise 242. Contains Duplicate
+link to the problem: https://leetcode.com/problems/valid-anagram/
+*/
+
 public class ValidAnagramUsingAlphabetFrequency {
     public boolean isAnagram(String s, String t) {
         int sLength = s.length();

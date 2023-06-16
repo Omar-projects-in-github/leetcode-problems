@@ -2,6 +2,11 @@ package ArraysAndHashing;
 
 import java.util.Arrays;
 
+/*
+Leetcode exercise 242. Contains Duplicate
+link to the problem: https://leetcode.com/problems/valid-anagram/
+*/
+
 public class ValidAnagramUsingSorting {
     public boolean isAnagram(String s, String t) {
         if (s.length() != t.length())

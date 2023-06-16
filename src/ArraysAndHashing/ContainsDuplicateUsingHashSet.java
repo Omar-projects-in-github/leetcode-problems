@@ -5,7 +5,7 @@ import java.util.Set;
 
 /*
 Leetcode exercise 217. Contains Duplicate
-
+link to the problem: https://leetcode.com/problems/contains-duplicate/
  */
 
 public class ContainsDuplicateUsingHashSet {
