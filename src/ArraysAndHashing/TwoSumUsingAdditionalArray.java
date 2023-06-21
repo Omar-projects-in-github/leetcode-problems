@@ -5,6 +5,7 @@ import java.util.Arrays;
 /*
 Leetcode exercise 1. Two Sum
 link to the problem: https://leetcode.com/problems/two-sum/
+difficulty: easy
 */
 
 public class TwoSumUsingAdditionalArray {

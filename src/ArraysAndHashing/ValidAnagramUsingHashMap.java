@@ -6,6 +6,7 @@ import java.util.Map;
 /*
 Leetcode exercise 242. Contains Duplicate
 link to the problem: https://leetcode.com/problems/valid-anagram/
+difficulty: easy
 */
 
 public class ValidAnagramUsingHashMap {
